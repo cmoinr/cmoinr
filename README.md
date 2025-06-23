@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Carlos 👋
 
-<!--
-**cmoinr/cmoinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- **IT Student & Full-stack Developer**  
+  Passionate about technology and software development, with hands-on experience in both front-end and back-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Database Schema Design**  
+  Skilled in both SQL and MongoDB, designing efficient and scalable database schemas for a variety of applications.
+
+- **Programming Languages**  
+  Proficient in Python and JavaScript, building robust solutions from automation scripts to interactive web apps.
+
+## 🚀 Featured Project
+
+- [**StockTaking**](https://github.com/cmoinr/StockTaking):  
+  My personal project for inventory management. Check out the repository for details on schema design, business logic, and implementation.
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/cmoinr/)
+
+## ⚽ Hobbies
+
+- I love soccer and running!
+
+---
+Feel free to explore my repositories or connect with me!
