@@ -1,12 +1,12 @@
 # Hi there, I'm Carlos Moisés!
 
-#### _IT student & full-stack developer_
+#### _Entrepreneur, IT student & full-stack developer_
 Passionate about technology and software development, with hands-on experience in both front-end and back-end technologies.
 
 - I'm studying _Systems Engineering_ at [Rómulo Gallegos University](https://es.wikipedia.org/wiki/Universidad_Nacional_Experimental_R%C3%B3mulo_Gallegos), located in Guárico, Venezuela 🌎🇻🇪
-- I'm currently working on [StockTaking App](https://stocktaking.me), _my personal project for business & inventory management_
-- I'm deeply learning _Artificial Intelligence_ & _NoSQL DBs: MongoDB_
-- I love _soccer_ & _running_
+- I'm currently working on [LoTuyo App](https://lotuyo.app), _my personal project for business & inventory management_
+- I'm deeply learning _Artificial Intelligence_
+- I love _soccer_, _running_ & _hiking_
 
 ## _My skills_
 
@@ -35,6 +35,7 @@ Passionate about technology and software development, with hands-on experience i
 <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" /></a>&nbsp;&nbsp;
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>&nbsp;&nbsp;
 <a href="https://vercel.com/home" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/vercel.png" alt="Vercel" title="Vercel" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" alt="Svelte" title="Svelte" width="36" height="36" /></a>&nbsp;&nbsp;
 </p>
 
 #### _Essentials_
